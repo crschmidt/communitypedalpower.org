@@ -54,7 +54,7 @@ Community Pedal Power, Inc. is a 501(c)3 non-profit focused on community cycling
   </div>
   <div class="image-card">
     <div class="image-container">
-    <img src="https://lh6.googleusercontent.com/RxQvs3HC3OJXPWFdJhGKCNiMjyzgpE6fzH4ZqLyYBV0zCOq9U5dHqf5wdiCIVsOl3jYoqvzpx4iyaNnS3tJJDok=w16383" alt="a group of people gathered around bicycles in a park setting on a sunny day. Some are engaged in conversation while checking out a blue cargo bike. One individual is holding a smartphone, and another has a dog peeking out from a backpack.">
+    <img src="/img/testride.jpg" alt="a group of people gathered around bicycles in a park setting on a sunny day. Some are engaged in conversation while checking out a blue cargo bike. One individual is holding a smartphone, and another has a dog peeking out from a backpack.">
     </div>
     <h3 class="image-title"><a href="page3.html">Cargo Bike Test Drive</a></h3>
     <p class="image-description">Crowd sourced event to benefit parents considering cargo bikes to transport their children by helping them to be able talk to a variety current parent owners that live in their community and try out the bikes.</p>
