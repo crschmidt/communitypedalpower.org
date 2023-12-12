@@ -722,3 +722,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   taxonomyTerm = ["HTML"]
 
 [menu]
+  [[menu.main]]
+    weight = 1
+    identifier = "ourteam"
+    name = "Our Team"
+    url = "/our-team/"
+
