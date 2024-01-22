@@ -724,6 +724,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 [menu]
   [[menu.main]]
     weight = 1
+    identifier = "donate"
+    name = "Donate"
+    url = "/donate/"
+  [[menu.main]]
+    weight = 2
     identifier = "ourteam"
     name = "Our Team"
     url = "/our-team/"
