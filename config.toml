@@ -681,11 +681,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   filename = "sitemap.xml"
   priority = 0.5
 
-# Permalinks config (https://gohugo.io/content-management/urls/#permalinks)
-# Permalinks 配置 (https://gohugo.io/content-management/urls/#permalinks)
-[Permalinks]
-  # posts = ":year/:month/:filename"
-  posts = ":filename"
+[permalinks]
+  [permalinks.page]
+    posts = '/blog/:year/:month/:slug/'
+  [permalinks.section]
+    posts = '/blog/'
 
 # Privacy config (https://gohugo.io/about/hugo-and-gdpr/)
 # 隐私信息配置 (https://gohugo.io/about/hugo-and-gdpr/)
