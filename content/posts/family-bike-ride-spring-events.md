@@ -2,8 +2,8 @@
 title: "Family Bike Ride Spring Events"
 date: 2024-03-08T10:07:05-05:00
 tags: ["Family Bike Ride"]
-category: "Family Bike Ride"
 author: "Christopher Schmidt"
+images: ["/img/fbr-halloween-2022.jpg"]
 ---
 
 Family Bike Ride is inviting you to join two events in April: the Family Bike Ride Spring Ride on Sunday, April 28th, and the Cargo Bike Test Drive Event on Sunday, April 7th.
@@ -43,4 +43,4 @@ These events also feature an area of toys for kids, so adults are encouraged to 
 
 For more information on the event, see the [Cargo Bike Test Drive website](https://www.familybikeride.org/testdrive).
 
-Financial support for Family Bike Ride’s events is provided by [Bicycle Belle](https://www.bicyclebelleboston.com/) and [E-Bikes of New England](https://www.ebikesofne.com/), and on-site maintenance and technical support is provided by [NEMO](https://www.get-nemo.com/). Donations to support Family Bike Ride is part of Community Pedal Power, a 501(c)3 non-profit, and donations can be made at the [Family Bike Ride website](https://www.familybikeride.org/donate).
+Primary Financial support for Family Bike Ride’s events is provided by [Bicycle Belle](https://www.bicyclebelleboston.com/) and [E-Bikes of New England](https://www.ebikesofne.com/). On-site maintenance and technical support is provided by [NEMO](https://www.get-nemo.com/). Additional funding for Family Bike Ride is provided by [Somerville Youth and Recreation Foundation](http://somervilleyouthrecf.org/). Donations to support Family Bike Ride is part of Community Pedal Power, a 501(c)3 non-profit, and donations can be made at the [Family Bike Ride website](https://www.familybikeride.org/donate).
