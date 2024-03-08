@@ -34,13 +34,12 @@ The Cargo Bike Test Drive event is an opportunity for current cargo bike owners 
 
 These events also feature an area of toys for kids, so adults are encouraged to bring their young ones even if they aren’t comfortable riding a bike with them quite yet: like Family Bike Ride’s group rides, the Cargo Bike Test Drive event is a community focused event working to bring together the cycling community in support of helping get more folks on bikes!
 
+For more information on the event, see the [Cargo Bike Test Drive website](https://www.familybikeride.org/testdrive).
+
 <center>
 <img src="/img/testdrive-2023.jpg" alt="A large crowd of people gather along in a park, surrounding a large number of cargo bikes." width="800px"> 
 
 *2023 Cargo Bike Test Drive event, Danehy Park.*
 </center>
-
-
-For more information on the event, see the [Cargo Bike Test Drive website](https://www.familybikeride.org/testdrive).
 
 Primary financial support for Family Bike Ride’s events is provided by [Bicycle Belle](https://www.bicyclebelleboston.com/) and [E-Bikes of New England](https://www.ebikesofne.com/). On-site maintenance and technical support is provided by [NEMO](https://www.get-nemo.com/). Additional funding for Family Bike Ride is provided by [Somerville Youth and Recreation Foundation](http://somervilleyouthrecf.org/). Family Bike Ride is part of Community Pedal Power, a 501(c)3 non-profit, and donations can be made at the [Family Bike Ride website](https://www.familybikeride.org/donate).
