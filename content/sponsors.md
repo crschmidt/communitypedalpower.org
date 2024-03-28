@@ -19,10 +19,4 @@ Community Pedal Power receives generous support from our sponsors.
 
 ## Additional Sponsors
 
-<a href="https://www.get-nemo.com/"><img src="/img/sponsors/nemo.png" /></a> 
-<br />
-
-<a href="https://bikesnotbombs.org/"><img src="/img/sponsors/bnb.png" /></a>
-<br />
-
-<a href="http://somervilleyouthrecf.org/"><img src="/img/sponsors/syrf.png" /></a>
+<a href="https://bikesnotbombs.org/"><img style="margin-left: 10px; margin-right: 10px;" src="/img/sponsors/bnb.png" /></a> <a href="https://www.get-nemo.com/"><img style="margin-left: 10px; margin-right: 10px;" src="/img/sponsors/nemo.png" /></a>  <a href="http://somervilleyouthrecf.org/"><img style="margin-left: 10px; margin-right: 10px;" src="/img/sponsors/syrf.png" /></a>
