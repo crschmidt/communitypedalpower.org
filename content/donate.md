@@ -4,7 +4,7 @@ title: Donate to Community Pedal Power!
 
 Community Pedal Power is a 501c3 non-profit that supports community cycling
 efforts in the Somerville + Cambridge area. Donations help support projects
-like the Camberville E-Bike Lending Library, Famiy Bike Ride, and Cargo Bike
+like the Camberville E-Bike Lending Library, Family Bike Ride, and Cargo Bike
 Test Ride events.
 
 In 2023, these events helped dozens of families transition from driving to
