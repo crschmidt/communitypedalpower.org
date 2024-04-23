@@ -49,7 +49,7 @@ Community Pedal Power, Inc. is a 501(c)3 non-profit focused on community cycling
     <div class="image-container">
     <img src="https://camberville.ebikelibrary.org/ebikes/bikeshed-scaled.jpg" alt="A wooden shed neatly storing a variety of bicycles.">
     </div>
-    <h3 class="image-title"><a href="https://camberville.ebikelibrary.org/">Camberville E-Bike Lending Library</a></h3>
+    <h3 class="image-title"><a href="https://cpp.ebikelibrary.org/">Community Pedal Power E-Bike Lending Library</a></h3>
     <p class="image-description">The E-bike Lending Library is a free service working to expand access to e-bikes in the area. We have a small collection of e-bikes that we lend out to community members for up to a week, for free.</p>
   </div>
   <div class="image-card">
