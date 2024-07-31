@@ -66,4 +66,11 @@ Community Pedal Power, Inc. is a 501(c)3 non-profit focused on community cycling
     <h3 class="image-title"><a href="https://betterabound.familybikeride.org/">Better Abound</a></h3>
     <p class="image-description">The Better Abound project is a collection of DIY modifications to improve the Aventon Abound to make it more useful for everyday community use.</p>
   </div>
+  <div class="image-card">
+    <div class="image-container">
+    <img src="https://betterabound.familybikeride.org/img/bikebus.jpg" alt="A screenshot from a website, showing a Google Map and a bunch of kids on bikes">
+    </div>
+    <h3 class="image-title"><a href="https://bikebus.boston/">Boston Bike Busses</a></h3>
+    <p class="image-description">Boston has a number of Bike Busses -- organized rides to schools around the community that help get kids participating in active transportation. Community Pedal Power runs bikebus.boston, a registry of local bike busses; and helps organizers of new bike busses as well!</p>
+  </div>
 </div>
