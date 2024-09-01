@@ -2,7 +2,7 @@
 title: "Pedal Power at the Museum of Science"
 date: 2024-09-01T08:53:04-0400
 draft: false
-images: ['/ebikes/ebikelibrary-cartoon-sm.jpg']
+images: ['/img/ebikelibrary-cartoon-sm.jpg']
 
 ---
 
