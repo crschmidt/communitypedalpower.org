@@ -2,6 +2,7 @@
 title: Celebrating One Year of the E-bike Lending Library
 date: 2024-10-15
 images: ['/img/oneyear.jpg']
+description: "Community Pedal Power is excited to celebrate one complete year of operations for the E-Bike Lending Library! Over the past year, the E-bike Lending Library has loaned bikes more than 500 times, with borrowers traveling more than 16000 miles since the program began."
 ---
 
 <img src="/img/oneyear.jpg" />
