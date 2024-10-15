@@ -1,7 +1,7 @@
 ---
 title: Celebrating One Year of the E-bike Lending Library
 date: 2024-10-15
-images: ['/img/onyear.jpg']
+images: ['/img/oneyear.jpg']
 ---
 
 <img src="/img/oneyear.jpg" />
