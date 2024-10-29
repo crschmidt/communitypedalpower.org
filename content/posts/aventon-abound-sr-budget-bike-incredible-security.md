@@ -3,6 +3,8 @@ title: "Aventon Abound SR: Budget Mid-Tail Bike with Incredible Security Feature
 author: "Christopher Schmidt"
 date: "2024-10-28T00:00:00"
 categories: ['Reviews']
+images: ['/img/abound-sr-crop.jpg']
+description: "The Abound SR is a mid-tail cargo bike which is a substantial upgrade to the existing Abound offering. With a number of terrific new security tech features, improved ride quality that removes all of the most common concerns about the Abound, this is a bike worth looking at."
 ---
 
 <img src="/img/abound-sr-crop.jpg" />
