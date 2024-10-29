@@ -15,6 +15,8 @@ Overall, the Abound SR seems a substantial upgrade to the existing Abound offeri
 
 The MSRP for the Abound SR is $2199, a similar price point to the [Radio Flyer Flex](https://www.radioflyer.com/products/flyer-flex) ($2099), but offering a much lower cost alternative to the [Tern HSD](https://store.ternbicycles.com/collections/hsd-e-bikes) ($4299) or [Quick Haul](https://store.ternbicycles.com/collections/quick-haul-e-bike) ($2500). 
 
+Other Reviews: [Electric Bike Report](https://electricbikereport.com/aventon-abound-sr-review/)
+
 ## Biggest Win: New Security and Safety Tech
 
 The Abound SR is an evolution of the electronics of the Aventon line. At a technical level, the bike has moved to including a new “ACU” (Aventon Control Unit) – a central computer with a built in GPS and 4G internet connectivity for remote tracking and security features, as well as a more complete package for tuning the bike available via app connectivity.
