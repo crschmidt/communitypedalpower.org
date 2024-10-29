@@ -2,7 +2,6 @@
 title: "Aventon Abound SR: Budget Mid-Tail Bike with Incredible Security Features"
 author: "Christopher Schmidt"
 date: "2024-10-28T00:00:00"
-draft: true
 categories: ['Reviews']
 ---
 
