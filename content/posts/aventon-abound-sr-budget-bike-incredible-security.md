@@ -9,7 +9,7 @@ description: "The Abound SR is a mid-tail cargo bike which is a substantial upgr
 
 <img src="/img/abound-sr-crop.jpg" />
 
-Today, Aventon is launching the [Abound SR](https://www.aventon.com/products/abound-sr-ebike?variant=43919137538243&avad=399521_b3d009b75), a new offering in the budget cargo bike market. The Abound SR is a mid-tail bike with a low rear deck, suitable for carrying a single passenger. It fits a similar space in the cargo bike market to the Tern HSD or Radio Flyer Flex.
+Today, Aventon is launching the [Abound SR](https://www.avantlink.com/click.php?tool_type=cl&merchant_id=a41b063c-52a4-4d87-8f09-d6c71998ed15&website_id=51010df3-ccd4-4deb-b1dc-8c3c49d0b052&url=https%3A%2F%2Fwww.aventon.com%2Fproducts%2Fabound-sr-ebike%3Fvariant%3D43919137538243), a new offering in the budget cargo bike market. The Abound SR is a mid-tail bike with a low rear deck, suitable for carrying a single passenger. It fits a similar space in the cargo bike market to the Tern HSD or Radio Flyer Flex.
 
 Overall, the Abound SR seems a substantial upgrade to the existing Abound offering. With a number of terrific new security tech features, improved ride quality that removes all of the most common concerns about the Abound, and new accessories expanding the capabilities of the line, this bike is the first bike in the market that really seems to open the door to competing directly with the Tern HSD for the cargo bike family looking to carry a single kid. 
 
