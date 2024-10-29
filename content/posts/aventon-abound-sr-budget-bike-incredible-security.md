@@ -9,11 +9,11 @@ description: "The Abound SR is a mid-tail cargo bike which is a substantial upgr
 
 <img src="/img/abound-sr-crop.jpg" />
 
-Today, Aventon is launching the [Abound SR](https://www.aventon.com/products/abound-sr-ebike?variant=43919137538243&avad=399521_b3d009b75), a new offering in the budget cargo bike market. The Abound SR is a mid-tail bike with a low rear deck, suitable for carrying a single passenger. It fits a similar space in the cargo bike market to the Tern HSD or Radio Flyer Flex. The bike is available in three colors: a purple Haze, a dark blue Cobalt, or a black Stealth. The bike is a looker, and will catch eyes among the cargo bike jealous in your bike room at work.
-
-The MSRP for the Abound SR is $2199, a similar price point to the [Radio Flyer Flex](https://www.radioflyer.com/products/flyer-flex) ($2099), but offering a much lower cost alternative to the [Tern HSD](https://store.ternbicycles.com/collections/hsd-e-bikes) ($4299) or [Quick Haul](https://store.ternbicycles.com/collections/quick-haul-e-bike) ($2500). 
+Today, Aventon is launching the [Abound SR](https://www.aventon.com/products/abound-sr-ebike?variant=43919137538243&avad=399521_b3d009b75), a new offering in the budget cargo bike market. The Abound SR is a mid-tail bike with a low rear deck, suitable for carrying a single passenger. It fits a similar space in the cargo bike market to the Tern HSD or Radio Flyer Flex.
 
 Overall, the Abound SR seems a substantial upgrade to the existing Abound offering. With a number of terrific new security tech features, improved ride quality that removes all of the most common concerns about the Abound, and new accessories expanding the capabilities of the line, this bike is the first bike in the market that really seems to open the door to competing directly with the Tern HSD for the cargo bike family looking to carry a single kid. 
+
+The MSRP for the Abound SR is $2199, a similar price point to the [Radio Flyer Flex](https://www.radioflyer.com/products/flyer-flex) ($2099), but offering a much lower cost alternative to the [Tern HSD](https://store.ternbicycles.com/collections/hsd-e-bikes) ($4299) or [Quick Haul](https://store.ternbicycles.com/collections/quick-haul-e-bike) ($2500). 
 
 ## Biggest Win: New Security and Safety Tech
 
