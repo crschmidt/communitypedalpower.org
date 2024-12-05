@@ -1,5 +1,7 @@
 ---
 title: Security Offering
+images: ['/img/trackingsticker.jpg']
+description: Get a specialized, low-cost tracker from Community Pedal Power for as little as $10; or get an advanced tracking package installed with multiple trackers and additional security features.
 ---
 
 In order to help with potential recovery of bikes in the community, we are working to help provide users with options for adding trackers to their bikes. All offerings are based on tracking devices using the Apple Find My network, so require the owner to have access to an iOS device in order to perform tracking. 
