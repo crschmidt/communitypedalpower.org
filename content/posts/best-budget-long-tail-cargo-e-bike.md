@@ -33,6 +33,8 @@ We’ve evaluated each bike in terms of its core features, ride quality, kicksta
 <img src="/img/ratings/icon_verygood.png" alt="Very Good" width="16px" /> Very Good <img src="/img/ratings/icon_good.png" alt="Good" width="16px" /> Good <img src="/img/ratings/icon_fair.png" alt="Fair" width="16px" />
 Fair <img src="/img/ratings/icon_poor.png" alt="Poor" width="16px" /> Poor
 
+Other Cargo Bike Round Ups: [Electric Bike Report](https://electricbikereport.com/best-electric-cargo-bikes/) | [Ebike Escape](https://ebikeescape.com/best-cargo-ebikes/) | [Cargo Bike Life](https://cargobikelife.com/ams/the-10-best-electric-cargo-bikes-for-2024.2/) | [Outdoor Gear Lab](https://www.outdoorgearlab.com/topics/biking/best-cargo-bike)
+
 ## Recommended Cargo Bike: Aventon Abound
 
 **[Aventon Abound](https://alnk.to/aWEIfki) ($1799; w/accessories: $2293)**
