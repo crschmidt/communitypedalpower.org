@@ -4,6 +4,7 @@ author: "Christopher Schmidt"
 date: "2025-02-15T00:00:00"
 categories: ['Reviews']
 images: ['/img/abound-2kids-shot.jpg']
+description: "Our recommended Budget Long Tail Cargo E-Bike is the Aventon Abound. Read more about why, and what other options are out there."
 ---
 
 Community Pedal Power runs an E-Bike Lending Library with more than a dozen different bike models available, and our volunteer librarians are constantly seeking out access to the latest bikes to find the best things to add to our collection. We help out hundreds of folks a year getting on bikes, trying them out, and listening to their feedback. The recommendations of this article are based on a combination of ride quality, features, accessories, and price, and based on the experience of our librarians as well as members of our community who we have helped both try and purchase bikes.
