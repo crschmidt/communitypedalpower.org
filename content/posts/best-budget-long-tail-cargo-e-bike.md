@@ -77,6 +77,8 @@ In analyzing the bike, we have considered a number of features and accessories, 
 * Accessory Options: Bikes were assessed based on whether the manufacturer provided the option of a flat front rack for storage, rear seating aimed at seating two kids, including with one in a Thule Yepp seat, availability of a winter enclosure like the Tern Clubhouse Fort, and options for larger passengers like the Tern Captain’s Chair.  
 * Cost: The purchase price of the bike including the bike, footboards and spoke guards (if needed), a full rear child enclosure such as the Aventon Handrail or RadPowerBikes Caboose, seatpad for one larger child, a Thule Yepp Seat, and a flat front rack (or closest equivalent). Price is listed at the current price as of the time of review, and may include sale prices or similar that are not always available.
 
+### Pricing Table
+
 Prices are published as of February 15th, 2025.
 
 |  | Price | Bike | Footboards | Handrail | Seatpad | Front Rack | Yepp Seat |
