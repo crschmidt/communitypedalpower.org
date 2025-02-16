@@ -86,8 +86,8 @@ Prices are published as of February 15th, 2025.
 | Via | $2,927 | $2,399 | $0 | $199 | $0 | $99 | $230 |
 | RadWagon 5 | $2,852 | $2,399 |  ~~$119~~ $60 | ~~$179~~ $90 | ~~$89~~ $45 |  ~~$59~~ $30 | $230 |
 | Hopper | $3,304 | $2,999 | $0 | $0 | $75 | $0 | $230 |
-| Lectric Xpedition 2.0 | $1,957 | $1,399 | $0 | 179 | $0 | $149 | $230 |
-| RadWagon 4 | $2,135 | $1,499 | $79 | 179 | $89 | $59 | $230 |
+| Lectric Xpedition 2.0 | $1,957 | $1,399 | $0 | $179 | $0 | $149 | $230 |
+| RadWagon 4 | $2,135 | $1,499 | $79 | $179 | $89 | $59 | $230 |
 | Packer | $2,181 | $1,699 |  ~~$90~~ $63 |  ~~$120~~ $84 |  ~~$60~~ $42 | ~~$90~~ $63 | $230 |
 
 Disclosure: We have received several donated bikes to the E-Bike Library, which we have loaned to hundreds of borrowers, including 2 Aventon Abounds from Aventon, a Velotric Packer from Velotric, a Radio Flyer Via, a Radio Flyer L885, and a Lectric Xpedition 2.0. We have also purchased a RadWagon 4 and Xtracycle Hopper for testing. RadWagon 5, Radio Flyer Via Pro, and Lectric Xpedition 1.0 were all tested with the help of members from the community. We also use referral links to some partners in order to receive funding which helps financially support Community Pedal Power and our efforts to get more folks on bikes.  
