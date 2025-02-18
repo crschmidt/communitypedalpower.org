@@ -67,6 +67,8 @@ The **RadWagon 4** ($1499), **Velotric Packer** ($1699), **Radio Flyer L885** (n
 
 Other bikes in this category we have seen but have not tested include the **Blix Packa Genie** ($1699), **Blix Packa** (no longer sold), **AIPAS A6** ($1599), **Letrigo Minivan SE** ($1699). We do not believe that any of these bikes provides a huge value over the bikes we have listed for recommendations here.
 
+One other bike that is at the top end of the price curve, but we haven't reviewed through the library, is the **Yuba Kombi E5 ($2999; with accessories: $3,779)**. However, while the base bike falls in our price cutoff for this review, the accessory package really puts it outside the range of "budget" cargo bikes.
+
 ## Methodology
 
 In analyzing the bike, we have considered a number of features and accessories, as well as some more subjective or qualitative elements such as ride quality. We categorized each bike based on four criteria:
@@ -91,5 +93,6 @@ Prices are published as of February 15th, 2025.
 | Lectric Xpedition 2.0 | $1,957 | $1,399 | $0 | $179 | $0 | $149 | $230 |
 | RadWagon 4 | $2,135 | $1,499 | $79 | $179 | $89 | $59 | $230 |
 | Packer | $2,181 | $1,699 |  ~~$90~~ $63 |  ~~$120~~ $84 |  ~~$60~~ $42 | ~~$90~~ $63 | $230 |
+| Kombi E5 | $3,779 | $2,999 |  $140 |  $230 |  $110 | $70 | $230 |
 
 Disclosure: We have received several donated bikes to the E-Bike Library, which we have loaned to hundreds of borrowers, including 2 Aventon Abounds from Aventon, a Velotric Packer from Velotric, a Radio Flyer Via, a Radio Flyer L885, and a Lectric Xpedition 2.0. We have also purchased a RadWagon 4 and Xtracycle Hopper for testing. RadWagon 5, Radio Flyer Via Pro, and Lectric Xpedition 1.0 were all tested with the help of members from the community. We also use referral links to some partners in order to receive funding which helps financially support Community Pedal Power and our efforts to get more folks on bikes.  
