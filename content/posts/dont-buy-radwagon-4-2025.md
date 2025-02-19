@@ -1,5 +1,5 @@
 ---
-title: Should You Buy a RadWagon 4 in 2025?
+title: Don't Buy a RadWagon 4 in 2025
 date: 2025-02-19
 description: The RadWagon 4 was released in 2020. While an amazing bike for the price at the time, in 2025, it's no longer a smart buy. This article lays out some of the problems with this bike relative to its more modern competitors.
 images: ['/img/rw4-wide.jpg']
