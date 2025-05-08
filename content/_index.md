@@ -1,4 +1,4 @@
-Community Pedal Power, Inc. is a 501(c)3 non-profit focused on community cycling advocacy. The project ties together a number of community events and projects designed to help further community cycling advocacy.
+Community Pedal Power, Inc. is a 501(c)3 non-profit focused on community biking advocacy. The project ties together a number of community events and projects designed to help further community biking advocacy.
 
 <style>
   .image-gallery {
@@ -58,7 +58,7 @@ Community Pedal Power, Inc. is a 501(c)3 non-profit focused on community cycling
 <img src="/img/familybikeride.png" alt="The image shows a vibrant and cheerful illustration with the text FAMILY BIKE RIDE at the top in bold, playful lettering. In the center, there is a young girl wearing a yellow helmet and a blue t-shirt with a smiley face design. She is riding a blue bicycle and waving while holding an ice cream cone with multiple scoops. The girl appears joyful and is smiling widely." />
 </div>
     <h3 class="image-title"><a href="https://www.familybikeride.org/">Family Bike Ride</a></h3>
-    <p class="image-description">Family Bike Ride hosts group bike rides year round aimed at gathering families together to join in joinful cycling.</p>
+    <p class="image-description">Family Bike Ride hosts group bike rides year round aimed at gathering families together to join in joyful biking.</p>
   </div>
   <div class="image-card">
     <div class="image-container">

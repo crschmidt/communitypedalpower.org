@@ -14,7 +14,7 @@ Family Bike Ride’s Spring Ride on April 28th is a 2.1 mile family-friendly gro
 
 Family Bike Ride’s group rides are community focused event to bring together families and bikes, and highlight bike infrastructure that can help connect families to public community resources throughout the region. Past rides have included the Somerville Community Path and recently opened Community Path Extension, the Fitchburg Cutoff and bike infrastructure near Belmont High School, the Boston Harbor Walk, and playgrounds in Boston, Belmont, Arlington, Cambridge, and more.
 
-These rides are joined by all kinds of riders. Families arrive in bucket bikes and on long-tail cargo bikes with kid seats; kids will ride in baby seats, on the backs of bikes, or riding on their own. All are welcome to join, including adults looking to share in the joy of cycling. Our most recent fall ride had a crowd of more than 400 attendees!
+These rides are joined by all kinds of riders. Families arrive in bucket bikes and on long-tail cargo bikes with kid seats; kids will ride in baby seats, on the backs of bikes, or riding on their own. All are welcome to join, including adults looking to share in the joy of biking. Our most recent fall ride had a crowd of more than 400 attendees!
 
 Each season’s ride has a theme: the summer ride has ice cream, the fall ride has Halloween candy, the winter ride has smores, and starting this year, Family Bike Ride will be starting a new tradition of cookies! You are encouraged (but not required) to bring cookies to share for the cookie potluck.
 
@@ -32,7 +32,7 @@ If you’re looking to add a cargo bike to your life for the Spring Ride, or for
 
 The Cargo Bike Test Drive event is an opportunity for current cargo bike owners to come together and act as a resource for future cargo bike owners, discussing what they enjoy and don’t enjoy about their bikes. It’s also a great opportunity to see a wide range of community bikes: community members bring a wide range of bike models from a wide variety of brands – more than you’ll find in any single bike store. We will have several bike shops on site, but the majority of bikes are brought by community members like you, who can answer questions from personal experience about how they use their cargo bikes on a daily basis in the community.
 
-These events also feature an area of toys for kids, so adults are encouraged to bring their young ones even if they aren’t comfortable riding a bike with them quite yet: like Family Bike Ride’s group rides, the Cargo Bike Test Drive event is a community focused event working to bring together the cycling community in support of helping get more folks on bikes!
+These events also feature an area of toys for kids, so adults are encouraged to bring their young ones even if they aren’t comfortable riding a bike with them quite yet: like Family Bike Ride’s group rides, the Cargo Bike Test Drive event is a community focused event working to bring together the biking community in support of helping get more folks on bikes!
 
 For more information on the event, see the [Cargo Bike Test Drive website](https://www.familybikeride.org/testdrive).
 

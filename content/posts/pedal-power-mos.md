@@ -10,7 +10,7 @@ On August 24th, the Museum of Science hosted "[Pedal Power: Celebrating
 Community Through Biking](https://www.mos.org/events/pedal-power)". We brought
 along bikes, lawn games, and flyers to share with the community about the 
 E-Bike Lending Library and Family Bike Ride, two of our ongoing efforts to 
-connect the community to more cycling opportunities.
+connect the community to more biking opportunities.
 
 We had conversations with dozens of families, helping them learn more about
 the biking resources available in our community, alongside more than a dozen

@@ -17,4 +17,4 @@ and Nathan Faber, a community advocate who helped put dozens of families on
 cargo bikes in 2023.
 
 The organization is a non-profit host for a number of activities, enabling
-tax-deductible donations to support these cycling efforts.
+tax-deductible donations to support these biking efforts.
