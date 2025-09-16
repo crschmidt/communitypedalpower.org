@@ -21,7 +21,7 @@ These are the items you should get *with* your Aventon Abound LR (or order throu
 | Item | Why It’s Important | Price* |
 |---|---|---|
 | **[Aventon Abound LR (bike itself)](https://www.aventon.com/products/abound-lr-ebike)** | The base platform: long rear rack, robust 750 W motor, good payload, built-in security features, etc. | **$1,999** |
-| **[Front “Pizza” Rack](https://www.aventon.com/products/aventon-pizza-front-rack-abound-sr-abound-lr)** | A flat front platform for small loads up front. This will be combined with a milk crate to create storage space in the front of the bike.. | **$72.99** |
+| **[Front “Pizza” Rack](https://www.aventon.com/products/aventon-pizza-front-rack-abound-sr-abound-lr)** | A flat front platform for small loads up front. This will be combined with a milk crate to create storage space in the front of the bike. | **$72.99** |
 | **[Rear Carrier Kit (seatpad + backrest + rails / handrail)](https://www.aventon.com/products/aventon-child-carrier-kit-handrail-long-seatpad)** | For safely carrying passengers: cushion, support, safety, comfort. Includes rails, seatpad, backrest. | **$228.99** |
 | **[Yepp Maxi 2 or Yepp Nexxt Maxi 2 child seat](https://www.aventon.com/products/thule-yepp-nexxt-2-maxi-rack-mount-child-seat)** | Solid rear seat for a child: safe, padded, mounts well to the long rack with the proper hardware. Needed for carrying children under 4 years old. | **$259.95** |
 | **[Aventon Dropper Seatpost](https://www.aventon.com/products/replacement-seatpost?variant=43226450559171)** | For taller riders, add the "Aventon External Dropper Seatpost 30.9mm 440mm length" to swap your default seatpost to a taller one. | **$42.99** |
