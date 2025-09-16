@@ -3,6 +3,8 @@ title: "Aventon Abound LR: What to Buy & Where"
 author: "Christopher Schmidt"
 date: "2025-09-15T00:00:00"
 categories: ['Purchase Guide']
+images: ['/img/abound-lr-thumb.jpg']
+description: "Get a list of everything you should buy with your Aventon Abound LR."
 draft: false
 ---
 
