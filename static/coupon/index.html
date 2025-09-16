@@ -85,7 +85,31 @@
       ctx.fillText(issuerField.value || "Issuer Name", 1230, 480);
     }
 
-    downloadBtn.addEventListener("click", () => {
+  async function submitToGoogleForm(name, date, issuer) {
+      // Replace entry.xxxxx with your actual Google Form input names
+      const formData = new URLSearchParams();
+        formData.append("entry.1200466438", name);   // Name field
+        formData.append("entry.688129683", date);   // Issue Date field
+        formData.append("entry.2130594264", issuer); // Issuer Name field
+      try {
+        await fetch("https://docs.google.com/forms/d/e/1FAIpQLSdyikpSXc7GbkHxRKDyyopx63wgYocwzxKgggcZanwFBVjB4A/formResponse", {
+          method: "POST",
+          mode: "no-cors",
+          headers: { "Content-Type": "application/x-www-form-urlencoded" },
+          body: formData.toString()
+        });
+      } catch (err) {
+        console.error("Form submission failed:", err);
+      }
+    }
+
+    downloadBtn.addEventListener("click", async () => {
+      const name = nameField.value || "Name Here";
+      const date = dateField.value || today;
+      const issuer = issuerField.value || "Issuer Name";
+
+      // Submit to Google Form
+      await submitToGoogleForm(name, date, issuer);
       const link = document.createElement("a");
       link.download = "coupon.png";
       link.href = canvas.toDataURL("image/png");
