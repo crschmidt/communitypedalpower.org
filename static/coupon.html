@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Landry's Coupon Generator</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      max-width: 700px;
+      margin: 2rem auto;
+      text-align: center;
+    }
+    canvas {
+      display: block;
+      margin: 1rem auto;
+      border: 1px solid #ccc;
+      max-width: 100%;
+      height: auto;
+    }
+    label {
+      display: block;
+      margin: 0.5rem 0 0.2rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>Coupon Generator</h1>
+
+  <form id="couponForm">
+    <label>Name:
+      <input type="text" id="nameField" placeholder="Recipient Name">
+    </label>
+    <label>Issue Date:
+      <input type="date" id="dateField">
+    </label>
+    <label>Issuer Name:
+      <input type="text" id="issuerField" placeholder="Issuer Name">
+    </label>
+  </form>
+
+  <canvas id="canvas" width="1813" height="768"></canvas>
+  <button id="downloadBtn">Download Coupon</button>
+
+  <script>
+    const bgSrc = "coupon.png"; // rename your uploaded image to coupon.png
+
+    const canvas = document.getElementById("canvas");
+    const ctx = canvas.getContext("2d");
+
+    const nameField = document.getElementById("nameField");
+    const dateField = document.getElementById("dateField");
+    const issuerField = document.getElementById("issuerField");
+    const downloadBtn = document.getElementById("downloadBtn");
+
+    // Default issue date to today
+    const today = new Date().toISOString().split("T")[0];
+    dateField.value = today;
+
+    const bgImage = new Image();
+    bgImage.src = bgSrc;
+    bgImage.onload = drawCoupon;
+
+    // Redraw when fields change
+    [nameField, dateField, issuerField].forEach(input => {
+      input.addEventListener("input", drawCoupon);
+    });
+
+    function drawCoupon() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      ctx.drawImage(bgImage, 0, 0, canvas.width, canvas.height);
+
+      ctx.fillStyle = "black";
+      ctx.textAlign = "left";
+
+      // Name
+      ctx.font = "bold 36px sans-serif";
+      ctx.fillText(nameField.value || "Name Here", 1230, 260);
+
+      // Issue Date
+      ctx.font = "bold 32px sans-serif";
+      ctx.fillText(dateField.value || today, 1230, 380);
+
+      // Issuer Name
+      ctx.font = "bold 36px sans-serif";
+      ctx.fillText(issuerField.value || "Issuer Name", 1230, 480);
+    }
+
+    downloadBtn.addEventListener("click", () => {
+      const link = document.createElement("a");
+      link.download = "coupon.png";
+      link.href = canvas.toDataURL("image/png");
+      link.click();
+    });
+  </script>
+</body>
+</html>
+
