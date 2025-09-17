@@ -36,7 +36,7 @@ After you have the core set up, these add-ons are helpful extras to optimize car
 
 | Item | Purpose / Benefit | Price (CPP) |
 |---|---|---|
-| **[24 quartt milk crate](https://community-pedal-power.square.site/product/double-wide-milk-crate/7)** | A simple, inexpensive cargo bin: groceries, gear, or whatever you need. Mounts on the rack, easy to detach. | **$25** |
+| **[24 quart milk crate](https://community-pedal-power.square.site/product/double-wide-milk-crate/7)** | A simple, inexpensive cargo bin: groceries, gear, or whatever you need. Mounts on the rack, easy to detach. | **$25** |
 | **[Custom Lock Block Setup (“Lock Block” / Security Package)](https://community-pedal-power.square.site/product/aventon-abound-lr-sr-lock-block/15?cs=true&cst=popular)** | Attach a a heavy-duty lock securely without it bouncing around or getting in the way; keeps the bike secure when unattended. Includes lock, chain, and carrying pouch. | **$175**  |
 | **[Backrest Adapter Kit](https://community-pedal-power.square.site/product/abound-lr-backrest-bench-adapter-kit/18)** (if you got a Yepp seat) | Allows the use of the backrest to create a front sitting area alongside the Yepp Seat. | **$20** |
 | **[GUB Pro 6 Cell Phone Mount](https://amzn.to/4plmThr)** | Cell phone mount used by the e-bike library. | **$18** |
