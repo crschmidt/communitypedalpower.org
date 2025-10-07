@@ -47,11 +47,13 @@ After you have the core set up, these add-ons are helpful extras to optimize car
 
 To keep biking viable when the weather turns (cold, wind, snow), here are some winter-specific accessories, and how they can be adapted to the Abound LR.
 
+**Community Pedal Power will be doing a group order of discounted Tern Storm Box/Storm Shields later in the fall; if you are interested, please [sign up here](https://forms.gle/DMSwvJQgcB69XEhw6) to be informed when.**
+
 | Accessory | What It Is / Why It Helps | Notes on Installing on Abound LR | Cost |
 |---|---|---|---|
 | **[Tern Storm Box](https://store.ternbicycles.com/products/storm-box-for-gsd)** | A weather-protected enclosure / box to shelter kid passengers or cargo from snow / wind. | Can be mounted to the Abound's handrail + long rear rack with an adapter kit. | $250 |
 | **[Tern Storm Shield](https://store.ternbicycles.com/products/storm-shield-for-gsd)** | A canopy / shield (zip-up sides etc.) that goes with the Storm Box to protect from rain, wind, snow. | Uses the same mounting frame as the Storm Box; requires adapter parts for the Abound. | $250 |
-| **[Abound adapter kit for the Storm Box / Shield](https://community-pedal-power.square.site/product/aventon-abound-tern-storm-shield-and-box-mounting-kit/14)** | Bridges between the Tern enclosure hardware and the Abound’s rack/rails. | Ensures secure and safe mounting; available from Community Pedal Power | $50 |
+| **Abound adapter kit for the Storm Box / Shield** | Bridges between the Tern enclosure hardware and the Abound’s rack/rails. | Ensures secure and safe mounting; available from Community Pedal Power. Email [hello@communitypedalpower.org](mailto:hello@communitypedalpower.org) for more information. | $50 |
 
 ---
 
