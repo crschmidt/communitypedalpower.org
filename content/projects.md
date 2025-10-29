@@ -43,7 +43,7 @@ title: Our Projects
 <div class="image-gallery">
   <div class="image-card">
     <div class="image-container">
-        <img src="https://151616574.cdn6.editmysite.com/uploads/1/5/1/6/151616574/HVTC3SEFBTH4QCMCYVZJBZTG.png?width=2400&optimize=medium" />
+        <img src="/img/trackyourbike_sm.jpg" />
     </div>
     <h3 class="image-title"><a href="/security/package/">Security Package</a></h3>
     <p class="image-description">We will work with you to install multiple Apple Find My compatible trackers on your bike, as well as adding security stickers to help protect and potentially recover your bike. <b>Cost: $100</b></p>

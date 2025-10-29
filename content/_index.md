@@ -42,7 +42,7 @@ Community Pedal Power, Inc. is a 501(c)3 non-profit focused on community biking 
 <p>Stay on top of all of the efforts of Community Pedal Power, including the E-bike Lending Library, Family Bike Ride, and our projects like our security package, locking systems, and more!</p>
 <ul>
  <li><a href="https://mailchi.mp/01fbe86a3b3a/join-our-mailing-list">Join our mailing list</a></li>
- <li><a href="https://discord.gg/rjFM52FY8s">Join us on Discord</a></li>
+ <li><a href="https://discord.gg/vfRAqvzeSf">Join us on Discord</a></li>
  <li><a href="https://www.instagram.com/cppebikelibrary/">Follow on Instagram</a></li>
  <li><a href="https://www.facebook.com/cppebikelibrary">Follow on Facebook</a></li>
  <li>Or you can send us an email at <a href="mailto:librarians@communitypedalpower.org">librarians@communitypedalpower.org</a> with your questions, comments, etc.</li>
