@@ -36,9 +36,9 @@ After you have the core set up, these add-ons are helpful extras to optimize car
 
 | Item | Purpose / Benefit | Price (CPP) |
 |---|---|---|
-| **[24 quart milk crate](https://community-pedal-power.square.site/product/double-wide-milk-crate/7)** | A simple, inexpensive cargo bin: groceries, gear, or whatever you need. Mounts on the rack, easy to detach. | **$25** |
-| **[Custom Lock Block Setup (“Lock Block” / Security Package)](https://community-pedal-power.square.site/product/aventon-abound-lr-sr-lock-block/15?cs=true&cst=popular)** | Attach a a heavy-duty lock securely without it bouncing around or getting in the way; keeps the bike secure when unattended. Includes lock, chain, and carrying pouch. | **$175**  |
-| **[Backrest Adapter Kit](https://community-pedal-power.square.site/product/abound-lr-backrest-bench-adapter-kit/18)** (if you got a Yepp seat) | Allows the use of the backrest to create a front sitting area alongside the Yepp Seat. | **$20** |
+| **24 quart milk crate** | A simple, inexpensive cargo bin: groceries, gear, or whatever you need. Mounts on the rack, easy to detach. | **~$25** |
+| **Custom Lock Block Setup (“Lock Block” / Security Package)** | Attach a a heavy-duty lock securely without it bouncing around or getting in the way; keeps the bike secure when unattended. Includes lock, chain, and carrying pouch. | Available from Landry's Bike Shop, $200  |
+| **Backrest Adapter Kit (if you got a Yepp seat) | Allows the use of the backrest to create a front sitting area alongside the Yepp Seat. | **$20** from Landry's Bicycles |
 | **[GUB Pro 6 Cell Phone Mount](https://amzn.to/4plmThr)** | Cell phone mount used by the e-bike library. | **$18** |
 
 ---
@@ -53,7 +53,7 @@ To keep biking viable when the weather turns (cold, wind, snow), here are some w
 |---|---|---|---|
 | **[Tern Storm Box](https://store.ternbicycles.com/products/storm-box-for-gsd)** | A weather-protected enclosure / box to shelter kid passengers or cargo from snow / wind. | Can be mounted to the Abound's handrail + long rear rack with an adapter kit. | $250 |
 | **[Tern Storm Shield](https://store.ternbicycles.com/products/storm-shield-for-gsd)** | A canopy / shield (zip-up sides etc.) that goes with the Storm Box to protect from rain, wind, snow. | Uses the same mounting frame as the Storm Box; requires adapter parts for the Abound. | $250 |
-| **Abound adapter kit for the Storm Box / Shield** | Bridges between the Tern enclosure hardware and the Abound’s rack/rails. | Ensures secure and safe mounting; available from Community Pedal Power. Email [hello@communitypedalpower.org](mailto:hello@communitypedalpower.org) for more information. | $50 |
+| **Abound adapter kit for the Storm Box / Shield** | Bridges between the Tern enclosure hardware and the Abound’s rack/rails. | Ensures secure and safe mounting; available from Landry's Bicycles. Email [hello@communitypedalpower.org](mailto:hello@communitypedalpower.org) for more information. | $50 |
 
 ---
 
